@@ -38,6 +38,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanlemon&show_icons=true&locale=en&layout=compact" alt="emmanlemon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanlemon&show_icons=true&locale=en" alt="emmanlemon" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanlemon&" alt="emmanlemon" /></p>
