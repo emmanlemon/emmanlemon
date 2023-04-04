@@ -12,13 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emmanlemon&show_icons=true&theme=gotham" alt="emmanlemon" />
 <h1 align="center">Hi 👋, I'm Emmanuel Joshua A. Lemon</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emmanlemon&show_icons=true&theme=gotham" alt="emmanlemon" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanlemon&label=Profile%20views&color=0e75b6&style=flat" alt="emmanlemon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanlemon" alt="emmanlemon" /></a> </p>
 
 - 🔭 I’m currently working on **Outsoar PH**
 
