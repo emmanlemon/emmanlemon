@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/emmanlemon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emmanlemon" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanlemon&show_icons=true&locale=en&layout=compact" alt="emmanlemon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanlemon&show_icons=true&locale=en&layout=compact" alt="emmanlemon" />
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanlemon&" alt="emmanlemon" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanlemon&" alt="emmanlemon" /></p>
