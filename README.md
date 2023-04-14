@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Emmanuel Joshua A. Lemon</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emmanlemon&show_icons=true&theme=gotham" alt="emmanlemon" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emmanlemon&show_icons=true&theme=gotham" alt="emmanlemon" />
 <p align="left"> <img src="https://camo.githubusercontent.com/61491d59e71fec5…15a32395077306f2f636f64696e672d667265616b2e676966.gif" alt="emmanlemon" /> </p>
 
 
