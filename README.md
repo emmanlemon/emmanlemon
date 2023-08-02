@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Outsoar PH** and Exlink
 
-- 🌱 I’m currently learning **React Js, Node Js , Express Js, Mongo DB(MERN)**
+- 🌱 I’m currently learning **React Js, Node Js , Express Js, Mongo DB(MERN) and Svelte**
 
 - 💬 Ask me about **PHP(Laravel)**
 
