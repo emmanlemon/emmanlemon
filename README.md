@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Outsoar PH**
+- 🔭 I’m currently working on **Outsoar PH** and Exlink
 
 - 🌱 I’m currently learning **React Js, Node Js , Express Js, Mongo DB(MERN)**
 
