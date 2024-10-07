@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **All One Hub** as **Mid Backend Developer**.
+- 🔭 I’m currently working on **South AsiaLink Finance Corporation** as **Full Stack Developer**.
 
 - 🌱 I’m currently learning **React Js, Node Js , Express Js, Mongo DB(MERN) and Svelte**
 
